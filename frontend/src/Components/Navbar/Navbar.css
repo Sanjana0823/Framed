@@ -18,3 +18,10 @@
 .nav-menu{
     margin-top: 2rem;
 }
+
+.nav-login-cart{
+    text-decoration: none;
+    display: inline;
+    color: white;
+    margin-top: 2rem;
+}
